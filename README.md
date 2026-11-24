@@ -36,7 +36,7 @@ Agenda, tareas (ClickUp), memoria, finanzas y notas de voz; escribe por iniciati
 - [Edificio Praga](https://edificio-praga.vercel.app) — sitio de proyecto inmobiliario, HTML/CSS/JS puros
 - [BenStar Occidente](https://benstar-project.vercel.app/Inicio.dc.html) — corporativa bilingüe ES/EN
 - [Pagina-Sanpablo](https://github.com/diddiersantiago/Pagina-Sanpablo) — landing VIS con Next.js 15 y SEO técnico *(repo público)*
-- Landing Torre 2 — recorrido 3D por scroll con 121 fotogramas (3,5 GB de originales → 2,2 MB servidos)
+- [Landing Torre 2 · Épiko](https://epiko-torre-2-landing.vercel.app) — la torre se levanta por scroll con 121 fotogramas (3,5 GB de originales → 2,2 MB servidos)
 
 ### 🎬 Producción audiovisual en código
 **52 composiciones** de motion graphics en React/Remotion/Three.js, **29 videos verticales** para el sector constructor y un motor en Python que arma timelines en DaVinci Resolve analizando el material crudo (cortes al beat, BPM, transcripción local).
