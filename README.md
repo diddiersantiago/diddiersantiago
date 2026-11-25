@@ -6,7 +6,7 @@
 
 > Marketing que se mide. Herramientas que venden.
 
-🔗 [Portafolio interactivo](https://antmanweb.vercel.app) · [LinkedIn](https://www.linkedin.com/in/didier-santiago-293010205/)
+🔗 [Portafolio interactivo](https://antmanweb.vercel.app) · [LinkedIn](https://www.linkedin.com/in/diddiersantiago/)
 
 ---
 
@@ -66,4 +66,4 @@ Dos productos sobre WhatsApp Business API: **agendamiento para barberías** (107
 
 ## 📫 Contacto
 
-[LinkedIn](https://www.linkedin.com/in/didier-santiago-293010205/) · [antmanweb.vercel.app](https://antmanweb.vercel.app) · Boyacá, Colombia
+[LinkedIn](https://www.linkedin.com/in/diddiersantiago/) · [antmanweb.vercel.app](https://antmanweb.vercel.app) · Boyacá, Colombia
